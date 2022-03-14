@@ -1,6 +1,5 @@
 ![header](https://capsule-render.vercel.app/api?type=Rect&color=0:228b22,10:1f7d1f,100:0a2a0a&height=180&section=header&text=Lee%20SeungJae&desc=ForestJae&fontColor=ffffff&fontSize=70&animation=fadeIn&fontAlignY=45&descAlignY=75)
 
-<br>
 
 <h3 align="center">
 iOS Developer
