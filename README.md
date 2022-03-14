@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=Rect&color=0:228b22,10:1f7d1f,100:0a2a0a&height=200&section=header&text=Lee%20SeungJae&desc=ForestJae&fontColor=ffffff&fontSize=90&animation=twinkling&fontAlignY=50&descAlignY=80)
+![header](https://capsule-render.vercel.app/api?type=Rect&color=0:228b22,10:1f7d1f,100:0a2a0a&height=200&section=header&text=Lee%20SeungJae&desc=ForestJae&fontColor=ffffff&fontSize=90&animation=fadeIn&fontAlignY=50&descAlignY=80)
 
 <br>
 
