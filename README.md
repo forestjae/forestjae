@@ -23,4 +23,4 @@ iOS Developer
 - Email: forestsj30@gmail.com
 - Blog: https://forestjae.tistory.com/
 
-[![github stats](https://github-readme-stats.vercel.app/api?username=forestjae)](https://github.com/anuraghazra/github-readme-stats)
+[![github stats](https://github-readme-stats.vercel.app/api?username=forestjae&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
