@@ -21,6 +21,5 @@ iOS Developer
 
 - Email: forestsj30@gmail.com
 - Blog: https://forestjae.tistory.com/
-- Study Log(Notion): https://fork-tangerine-465.notion.site/cd2fc54aff17413cba8d3e534685da31
 
 [![github stats](https://github-readme-stats.vercel.app/api?username=forestjae&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
